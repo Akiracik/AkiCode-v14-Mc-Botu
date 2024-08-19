@@ -1,0 +1,20 @@
+{
+  "name": "akicode-v14-mc-botu",
+  "version": "0.0.1",
+  "description": "AkiCode Mc benzeri bot",
+  "main": "akicode.js",
+  "scripts": {
+    "test": "node akicode.js"
+  },
+  "keywords": [
+    "Akira",
+    "AkiCode",
+    "Parsher",
+    "ParsherCode"
+  ],
+  "author": "Akira",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
